@@ -12,6 +12,9 @@
 ### Navigation:
   * React Router.
 
+### HTTP Request Handling:
+  * React Tanstack Query.
+
 ### Extensions:
   * React DevTools.
   * Redux DevTools.
