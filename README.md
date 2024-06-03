@@ -12,12 +12,15 @@
 ### Navigation:
   * React Router.
 
+### HTTP Request Handling:
+  * React Tanstack Query.
+
 ### Extensions:
   * React DevTools.
   * Redux DevTools.
 
 ### Other:
-  * Custom Hooks for HTTP data fetching from a DB.
+  * Custom Hooks for HTTP requests.
   * Portals and Modals
   * Custom Error handling for better UX.
   * Forms and Form Input validation.
