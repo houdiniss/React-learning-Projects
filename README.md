@@ -24,6 +24,7 @@
   * Portals and Modals
   * Custom Error handling for better UX.
   * Forms and Form Input validation.
+  * Authentication
 
  
 
