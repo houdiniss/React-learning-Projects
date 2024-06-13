@@ -12,6 +12,9 @@
 ### Navigation:
   * React Router.
 
+### Unit Testing:
+  * JEST.
+
 ### HTTP Request Handling:
   * React Tanstack Query.
 
