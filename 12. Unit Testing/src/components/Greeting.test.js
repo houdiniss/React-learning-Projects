@@ -37,8 +37,5 @@ describe('Greeting component', () => {
 
     const outputElement = screen.queryByText("good to see you!");
     expect(outputElement).toBeNull();
-  });
-
-  
-  
+  }); 
 });
